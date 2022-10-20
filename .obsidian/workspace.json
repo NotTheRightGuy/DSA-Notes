@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "ab776b432fd08c45",
+    "type": "split",
+    "children": [
+      {
+        "id": "e3232c50eb50a004",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe6a188d7ccca592",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linear Programming.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d0a0211e11b5da0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fda9da7ed32baf8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27d2844820e1c859",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ebb9f67a341fb508",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ded5a17ec8fb18d4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "0e8f42f29023464d",
+    "type": "split",
+    "children": [
+      {
+        "id": "13e409feca0e851e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fef7d68bc3e020b9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Linear Programming.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3ed28d0a27e50cc8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Linear Programming.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "898ebb4a8442279e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "af80670bbf1f804e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Linear Programming.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "fe6a188d7ccca592",
+  "lastOpenFiles": [
+    "Linear Programming.md",
+    "Diie-Hellman algorithm.md",
+    "SHA Algorithm.md",
+    "Probabilistic algorithms.md",
+    "Bloom Filter.md",
+    "HyperLogLog.md",
+    "Arrays.md",
+    "MapReduce.md",
+    "Parallel algorithm.md",
+    "The Fourier Transform.md"
+  ]
+}
